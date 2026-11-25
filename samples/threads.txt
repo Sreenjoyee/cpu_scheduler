@@ -1,0 +1,5 @@
+# thread-id arrival burst   (A has 3 threads, B has 1)
+A.T1 0 4
+A.T2 0 4
+A.T3 0 4
+B.T1 0 4

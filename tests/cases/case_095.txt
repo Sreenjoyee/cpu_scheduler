@@ -1,0 +1,7 @@
+# pid arrival burst priority queue
+P1 1 4 0 2
+P2 20 3 2 0
+P3 14 6 2 0
+P4 18 8 2 2
+P5 3 5 5 0
+P6 17 10 3 2
